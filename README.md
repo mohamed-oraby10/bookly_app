@@ -33,7 +33,7 @@ Bookly is a cross-platform mobile application built with Flutter that allows use
 
 ## 🧾 Search Screen
 <p align="center">
-  <img src="assets/screenshots/Screenshot_1762173591.pngg" alt="Search Screen" width="30%" style="margin-right: 10px;">
+  <img src="assets/screenshots/Screenshot_1762173591.png" alt="Search Screen" width="30%" style="margin-right: 10px;">
   <img src="assets/screenshots/Screenshot_1762173574.png" alt="Search Screen" width="30%" style="margin-right: 10px;">
 </p>
 
