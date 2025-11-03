@@ -4,7 +4,29 @@ Bookly is a cross-platform mobile application built with Flutter that allows use
 
 ---
 
-## 📸 Screenshots 
+## ✨ Features
+
+### 🎯 Core Features
+- **Featured Books**: Curated collection of popular computer science books
+- **Newest Books**: Stay updated with the latest additions
+- **Smart Search**: Real-time search functionality with instant results
+- **Book Details**: Comprehensive information including ratings, authors, and descriptions
+- **Similar Books**: Discover related books based on categories
+- **Free Preview**: Direct links to preview books online
+- **Book Ratings**: View average ratings and total review counts
+
+### 🎨 UI/UX Features
+- **Dark Mode**: Eye-friendly dark theme throughout the app
+- **Smooth Animations**: Engaging splash screen with animated transitions
+- **Responsive Design**: Optimized for various screen sizes
+- **Custom Widgets**: Reusable components for consistent design
+- **Loading States**: Elegant loading indicators for better UX
+- **Error Handling**: User-friendly error messages
+- **Cached Images**: Fast image loading with caching
+
+--- 
+
+## 📱 Screenshots
 
 ## 🚀 Splash Screen
 
@@ -38,34 +60,6 @@ Bookly is a cross-platform mobile application built with Flutter that allows use
 </p>
 
 
----
-
-## ✨ Features
-
-### 🎯 Core Features
-- **Featured Books**: Curated collection of popular computer science books
-- **Newest Books**: Stay updated with the latest additions
-- **Smart Search**: Real-time search functionality with instant results
-- **Book Details**: Comprehensive information including ratings, authors, and descriptions
-- **Similar Books**: Discover related books based on categories
-- **Free Preview**: Direct links to preview books online
-- **Book Ratings**: View average ratings and total review counts
-
-### 🎨 UI/UX Features
-- **Dark Mode**: Eye-friendly dark theme throughout the app
-- **Smooth Animations**: Engaging splash screen with animated transitions
-- **Responsive Design**: Optimized for various screen sizes
-- **Custom Widgets**: Reusable components for consistent design
-- **Loading States**: Elegant loading indicators for better UX
-- **Error Handling**: User-friendly error messages
-- **Cached Images**: Fast image loading with caching
-
-## 📱 Screenshots
-
-> Add your app screenshots here
-
-```
-[Home Screen] [Book Details] [Search Results]
 ```
 
 ## 🚀 Getting Started
