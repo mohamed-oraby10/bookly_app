@@ -4,7 +4,7 @@ Bookly is a cross-platform mobile application built with Flutter that allows use
 
 ---
 
-## 📸 Screenshots (Example placeholders)
+## 📸 Screenshots 
 
 ## 🚀 Splash Screen
 
